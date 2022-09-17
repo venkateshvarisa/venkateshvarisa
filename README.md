@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Venkatesh Varisa
 - 👀 I’m interested in learning new skills and exploring technology.
-Front End Web Developer.
+-Front End Web Developer.
 - 🌱 I’m a Machine Learning enthusiast.
 - Proficient in C,C++,DSA,DBMS,SQL,OS,OOPS.
 - I am good at problem solving,coding,decision making.
